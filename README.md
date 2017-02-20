@@ -1,2 +1,2 @@
-# Rails_Blog
-Blog on Rails
+# Rails Blog
+Blog on Rails.
